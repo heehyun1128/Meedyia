@@ -1,1 +1,7 @@
-use netlify(random url) or hostinger(designated domain) to host websites
+#This project is a Youtube clone developed in Jan 2023
+
+#Stack
+    - React
+    - Material UI
+    - RapidAPI
+    - Axios
